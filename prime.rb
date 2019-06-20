@@ -1,5 +1,5 @@
 def prime?(n)
  if num < 2
-   return TRUE
+   return FALSE
 end
 # Add  code here!
