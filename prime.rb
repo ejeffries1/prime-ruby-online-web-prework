@@ -1,6 +1,6 @@
 def prime?(num)
- if num /2 = num
-   return true
+ if num < 2
+   return false
  else
    return false
 end
